@@ -1,0 +1,11 @@
+.box{
+    border: 10px solid pink ;
+    height: 300px;
+    width: 400px;
+}
+
+.img-1{
+    height: 100%;
+    width: 100%;
+
+}
